@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akansha!
+## Hi, I’m Akansha! <br>
 - 😄 Pronouns : she/her
 - 👀 I’m interested in development and problem solving
 - 🌱 I’m currently learning : React + Redux (🚀 : MERN Stack💪)
