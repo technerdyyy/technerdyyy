@@ -1,6 +1,6 @@
 
 # Hi, I’m Akansha! <br>
-#### <br>- 😄 Pronouns : she/her<br>- 👀 I’m interested in development and problem solving<br>- 🌱 I’m currently learning : React + Redux (🚀 : MERN Stack💪)<br>- 📩 Email : akansha71289@gmail.com
+#### <br>- 😄 Pronouns : she/her<br>- 👀 I’m interested in development and problem solving<br>- 🌱 I’m currently learning : React Native 💪 <br>- 📩 Email : akansha71289@gmail.com
 
 
 # 🌐 Socials:
